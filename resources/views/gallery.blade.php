@@ -22,7 +22,7 @@
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
               <button class="btn btn-outline-success" type="submit">Search</button>
             </form>
-            <a class="nav-link active" aria-current="page" href="Index.html" style="font-size: 20px;color: rgb(247, 252, 247);">Home</a>
+            <a class="nav-link active" aria-current="page" href="/" style="font-size: 20px;color: rgb(247, 252, 247);">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://www.mbusa.com/en/all-vehicles#vbg-suvs" style="font-size: 20px;color: rgb(247, 252, 247);">Vehicles</a>
@@ -44,7 +44,7 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="Gallery.html" tabindex="-1" aria-disabled="true" style="font-size: 20px;color: rgb(247, 252, 247);">Photo Gallery</a>
+            <a class="nav-link disabled" href="/gallery" tabindex="-1" aria-disabled="true" style="font-size: 20px;color: rgb(247, 252, 247);">Photo Gallery</a>
           </li>
         </ul>
         <ul class="list-unstyled" style="font-size: 20px;color: rgb(247, 252, 247);">
